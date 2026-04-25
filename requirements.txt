@@ -1,0 +1,26 @@
+# Kutle Story Generator — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Also required (system-level, NOT pip):
+#   ffmpeg  →  https://ffmpeg.org/download.html
+#              Windows: winget install ffmpeg   OR   choco install ffmpeg
+#              Add ffmpeg/bin to PATH.
+#
+# GPU support (optional but strongly recommended — CPU is ~10-20x slower):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#   (replace cu121 with your CUDA version)
+
+# Voice cloning (XTTS v2 — downloads ~1.8 GB model on first run)
+# Coqui AI shut down; the community fork is now published as coqui-tts
+coqui-tts>=0.25.0
+
+# Audio manipulation / normalisation
+pydub>=0.25.1
+
+# Reading / writing WAV files (used for chunk concatenation in voice_engine)
+soundfile>=0.12.1
+
+# Numerical operations for audio array manipulation
+numpy>=1.24.0

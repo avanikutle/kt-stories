@@ -1,0 +1,40 @@
+he Indo-Gangetic plain region is one of the most heavily affected by heatwaves in India. A new study shows that apart from overarching meteorological conditions, local factors such as cloud cover and humidity are also prime factors in the formation of both moist and dry heat waves over this region.
+
+According to the study, this information can help managers and administrators develop better early warning systems to mitigate the impact of heatwaves in the region.
+
+What are heatwaves and what causes them?
+The India Meteorological Department defines heatwaves as periods of unusually high temperatures that occur in an area when compared to what is normally expected over the region during that time. A heatwave is said to occur over a region if the maximum temperature goes above 45 degrees Celsius, or when temperatures increase from between 4.5 and 6.4 degrees Celsius above the normal. A severe heatwave is said to occur when maximum temperatures exceed 47 degrees Celsius, or rises above normal levels by 6.4 degrees Celsius and higher.
+
+According to the World Meteorological Organisation, heatwaves occur when local excess heat accumulates over a sequence of unusually hot days and nights.
+
+Science shows that heatwaves are primarily caused by high-pressure systems – called anticyclones – that trap warm air in a particular area, preventing it from dissipating. This creates a dome of heat by forcing air to sink and compress, which increases temperatures at the surface. According to the Copernicus Climate Change Service, the lack of cloud cover under these high-pressure systems allows for greater solar radiation, further heating the ground and the air above it. This combination of factors can result in prolonged periods of excessively high temperatures, often lasting several days to weeks.
+
+Moist vs dry heatwaves
+A team from the Indian Institute of Technology Bombay analysed ten major heatwave episodes (in May 2010, May 2012, May 2013, June 2014, May 2015, June 2015, May 2018, June 2020, May 2021, and May 2024) of varying intensity and initial conditions to understand how heatwaves form over the Indo-Gangetic plain. They classified heatwaves into moist or dry ones depending on the atmospheric humidity levels in these areas.
+
+If the relative humidity remained above 50% almost throughout the heatwave period, the team classified them as moist heatwaves: their dataset thus had six moist heatwaves and four dry heatwaves. For each of these heatwaves, the team also temperature and other data from nine days before the heatwave onset. They also identified heatwave and non-heatwave areas containing similar anticyclonic movements spatially over the plain during this time to compare differences in the onset of heatwaves.
+
+The team found that heat advection – or the horizontal transport of heat within a fluid such as air or water, driven by typically wind or currents – was low over the Indo-Gangetic Plain for both moist and dry heatwaves.
+
+“This suggests heat transport from adjacent/remote locations contributes minimally to IGP heatwaves, highlighting the importance of processes within an atmospheric column and their interactions with local land-atmospheric processes,” the study, published in February in the journal Geophysical Research Letters, noted. This “challenges” the assumption that horizontal air movement substantially determines temperature extremes in Northwest and Central India, it said.
+
+Temperature changes, and different types of heating and cooling mechanisms in the days leading up to dry and moist heatwaves, showed that local land-atmosphere interactions (such as compression of warm air, and the transfer of heat from the land surface to the atmosphere) played an important role in these heatwaves. It also showed that remote processes such as heat advection played only a minimal role in the development of heatwave conditions in the IGP.
+
+Interplay between atmospheric and local factors
+The team found that moist heatwaves occurred after pre-monsoon showers, which are associated with elevated atmosphere humidity before the heatwave. Per the study, the “interaction between pre-monsoon showers, increased humidity, and nighttime low-level cloud formation creates a complex atmospheric system that can contribute to the development and persistence of these conditions for four to five days to facilitate the formation of these events”.
+
+Dry heatwaves, meanwhile, were characterised by the absence of low-level clouds and insufficient moisture.
+
+“This reduced the albedo, allowing more solar radiation to reach the Earth’s surface. This increased incoming radiation contributed to higher daytime temperatures,” the study noted.
+
+In the case of moist heatwaves, and areas near such zones that did not experience these heatwaves, the study found that despite a continued increase in daytime temperatures, the lack of nocturnal cloud cover facilitated higher longwave cooling (a process by which the surface and atmosphere emit infrared radiation or a ‘longwave’, thus leading to cooling) in non-heatwave areas. And higher local moisture levels prevented dry heatwaves from occurring in areas near where such heatwaves did occur.
+
+“The complex interplay between large-scale and local factors underscores the need for comprehensive approaches to studying and predicting heatwaves. Understanding these multifaceted interactions can improve our ability to develop early warning systems that would help prepare and mitigate the impacts of extreme heat events, which are becoming increasingly frequent and severe due to climate change in India,” the study noted.
+
+Why does this matter?
+The study’s finding that large-scale atmospheric and local land factors play a role in the formation of heatwaves is important also from an urbanisation perspective. This is because with increasing urbanisation comes increased urban heat island effects – a very distinct local factor that can increase heat advection and warm up nearby areas.
+
+For instance, a study published in 2022 analysed weather data between June 2019 and December 2020 from nine fixed weather monitoring stations in the Kolkata Metropolitan Area in West Bengal and found that wind speed and wind direction can work along with urban heat advection in the urban canopy layer, adding to urban heat islands.
+
+Urban heat islands in the Indo Gangetic Plain are known to cause ‘fog holes’ – distinct, clear, or thin patches in an otherwise extensive blanket of fog over urbanised areas.
+
